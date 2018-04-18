@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "loose-json@1.1.2",
+      "C:\\Users\\dtrivedi\\Downloads\\searchui-master\\searchui-frontend"
+    ]
+  ],
+  "_from": "loose-json@1.1.2",
+  "_id": "loose-json@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-6GGG0IfH/4G8dAZ/6/6qdH4ThOM=",
+  "_location": "/loose-json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "loose-json@1.1.2",
+    "name": "loose-json",
+    "escapedName": "loose-json",
+    "rawSpec": "1.1.2",
+    "saveSpec": null,
+    "fetchSpec": "1.1.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/loose-json/-/loose-json-1.1.2.tgz",
+  "_spec": "1.1.2",
+  "_where": "C:\\Users\\dtrivedi\\Downloads\\searchui-master\\searchui-frontend",
+  "author": {
+    "name": "ssnau"
+  },
+  "bugs": {
+    "url": "https://github.com/ssnau/loose-json/issues"
+  },
+  "dependencies": {
+    "esprima": "2.4.1"
+  },
+  "description": "a very loose yet safe json parser",
+  "devDependencies": {
+    "blanket": "^1.1.7",
+    "mocha": "^2.2.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "homepage": "https://github.com/ssnau/loose-json",
+  "keywords": [
+    "json",
+    "parser",
+    "loose"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "loose-json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssnau/loose-json.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.1.2"
+}

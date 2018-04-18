@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "webpack-encoding-plugin@0.2.1",
+      "C:\\Users\\dtrivedi\\Downloads\\searchui-master\\searchui-frontend"
+    ]
+  ],
+  "_development": true,
+  "_from": "webpack-encoding-plugin@0.2.1",
+  "_id": "webpack-encoding-plugin@0.2.1",
+  "_inBundle": false,
+  "_integrity": "sha1-OupPjqeKnrLW0hIkQmrQ+xpP2HI=",
+  "_location": "/webpack-encoding-plugin",
+  "_phantomChildren": {
+    "big.js": "3.2.0",
+    "clone": "1.0.3",
+    "emojis-list": "2.1.0",
+    "enhanced-resolve": "0.9.1",
+    "has-flag": "1.0.0",
+    "json5": "0.5.1",
+    "memory-fs": "0.3.0",
+    "mkdirp": "0.5.1",
+    "node-libs-browser": "0.7.0",
+    "object-assign": "4.1.1",
+    "optimist": "0.6.1",
+    "source-map": "0.5.7",
+    "tapable": "0.1.10",
+    "uglify-js": "2.7.5",
+    "watchpack": "0.2.9",
+    "webpack-core": "0.6.9"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "webpack-encoding-plugin@0.2.1",
+    "name": "webpack-encoding-plugin",
+    "escapedName": "webpack-encoding-plugin",
+    "rawSpec": "0.2.1",
+    "saveSpec": null,
+    "fetchSpec": "0.2.1"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/webpack-encoding-plugin/-/webpack-encoding-plugin-0.2.1.tgz",
+  "_spec": "0.2.1",
+  "_where": "C:\\Users\\dtrivedi\\Downloads\\searchui-master\\searchui-frontend",
+  "author": {
+    "name": "Tobias Wingerter",
+    "email": "tobias@quackes.de"
+  },
+  "bugs": {
+    "url": "https://github.com/quackes/webpack-encoding-plugin/issues"
+  },
+  "dependencies": {
+    "encoding": "^0.1.11",
+    "webpack": "^1.12.4",
+    "webpack-sources": "^0.1.2"
+  },
+  "description": "Control Webpacks output encoding",
+  "devDependencies": {},
+  "homepage": "https://github.com/quackes/webpack-encoding-plugin#readme",
+  "keywords": [
+    "webpack",
+    "encoding"
+  ],
+  "license": "MIT",
+  "main": "EncodingPlugin.js",
+  "name": "webpack-encoding-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quackes/webpack-encoding-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.1"
+}

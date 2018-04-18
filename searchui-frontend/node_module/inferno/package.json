@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "inferno@3.10.1",
+      "C:\\Users\\dtrivedi\\Downloads\\searchui-master\\searchui-frontend"
+    ]
+  ],
+  "_development": true,
+  "_from": "inferno@3.10.1",
+  "_id": "inferno@3.10.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Sm+Wi9TI9REIHsuUlWyCNVZMlk7vMRs2QFjMEfKPsj7p8be8wB+sl8T8jBU2T+2S3oKzbJdKmKNTxWeMjHdypA==",
+  "_location": "/inferno",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "inferno@3.10.1",
+    "name": "inferno",
+    "escapedName": "inferno",
+    "rawSpec": "3.10.1",
+    "saveSpec": null,
+    "fetchSpec": "3.10.1"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/inferno/-/inferno-3.10.1.tgz",
+  "_spec": "3.10.1",
+  "_where": "C:\\Users\\dtrivedi\\Downloads\\searchui-master\\searchui-frontend",
+  "author": {
+    "name": "Dominic Gannaway",
+    "email": "dg@domgan.com"
+  },
+  "bugs": {
+    "url": "https://github.com/infernojs/inferno/issues"
+  },
+  "dependencies": {
+    "inferno-shared": "3.10.1",
+    "inferno-vnode-flags": "3.10.1"
+  },
+  "description": "An extremely fast, React-like JavaScript library for building modern user interfaces",
+  "homepage": "https://github.com/infernojs/inferno#readme",
+  "inferno:main": "dist/index.es.js",
+  "keywords": [
+    "babel",
+    "react",
+    "inferno",
+    "framework",
+    "interfaces",
+    "user interfaces",
+    "html",
+    "renderToString",
+    "server",
+    "dom",
+    "browser",
+    "rollup"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "inferno",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infernojs/inferno.git"
+  },
+  "rollup": {
+    "bundledDependencies": [
+      "inferno-shared",
+      "inferno-vnode-flags"
+    ],
+    "moduleName": "Inferno"
+  },
+  "typings": "dist/index.d.ts",
+  "version": "3.10.1"
+}

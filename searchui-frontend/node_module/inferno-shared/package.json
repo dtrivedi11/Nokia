@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "inferno-shared@3.10.1",
+      "C:\\Users\\dtrivedi\\Downloads\\searchui-master\\searchui-frontend"
+    ]
+  ],
+  "_development": true,
+  "_from": "inferno-shared@3.10.1",
+  "_id": "inferno-shared@3.10.1",
+  "_inBundle": false,
+  "_integrity": "sha512-mzh4qmnQb23W5sdfsR6W93vSqNll7etLSMG4JhlzYXYn1e4zVcAqJRbeVISI3mTkU6nS4gJBHueZtSb1ORuuBw==",
+  "_location": "/inferno-shared",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "inferno-shared@3.10.1",
+    "name": "inferno-shared",
+    "escapedName": "inferno-shared",
+    "rawSpec": "3.10.1",
+    "saveSpec": null,
+    "fetchSpec": "3.10.1"
+  },
+  "_requiredBy": [
+    "/inferno"
+  ],
+  "_resolved": "https://registry.npmjs.org/inferno-shared/-/inferno-shared-3.10.1.tgz",
+  "_spec": "3.10.1",
+  "_where": "C:\\Users\\dtrivedi\\Downloads\\searchui-master\\searchui-frontend",
+  "author": {
+    "name": "Dominic Gannaway",
+    "email": "dg@domgan.com"
+  },
+  "bugs": {
+    "url": "https://github.com/infernojs/inferno/issues"
+  },
+  "description": "Helpers functions for Inferno",
+  "homepage": "https://github.com/infernojs/inferno#readme",
+  "inferno:main": "dist/index.es.js",
+  "keywords": [
+    "inferno",
+    "helpers"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "inferno-shared",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infernojs/inferno.git"
+  },
+  "rollup": {
+    "moduleName": "Inferno.Shared"
+  },
+  "typings": "dist/index.d.ts",
+  "version": "3.10.1"
+}

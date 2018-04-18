@@ -1,0 +1,13 @@
+'use strict';
+
+exports.__esModule = true;
+
+var _class, _temp;
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+var FieldNames = (_temp = _class = function FieldNames() {
+  _classCallCheck(this, FieldNames);
+}, _class.ID = '.id', _class.ZONE = '.zone', _class.SCORE = '.score', _class.RANDOM_SORT = '.random', _class.FT_RETRY_COUNT = '.ftRetryCount', _class.TITLE = 'title', _class.LANGUAGE = 'language', _class.LANGUAGES = 'languages', _class.DATE = 'date', _class.SOURCEURI = 'sourceuri', _class.TEXT = 'text', _class.XML_DOM = 'xmldom', _class.SOURCEPATH = 'sourcepath', _class.FILENAME = 'filename', _class.DOCTYPE = 'doctype', _class.PARENT_DOCTYPE = 'parentdoctype', _class.CATEGORY = 'cat', _class.SENTIMENT = 'sentiment', _class.CONCEPTS = 'concepts', _class.PEOPLE = 'people', _class.ORGANIZATIONS = 'orgs', _class.MIME_TYPE = 'mimetype', _class.PARENT_MIME_TYPE = 'parentmimetype', _class.CONTENT_POINTER = 'bytes', _class.URI = 'uri', _class.HOSTNAME = 'hostname', _class.ENCODING = 'encoding', _class.SCORE_EXPLAIN = 'score.explain', _class.SIZE = 'size', _class.PARENT_ID = 'parentid', _class.PROGENATOR_ID = 'progenatortid', _class.ANCESTOR_IDS = 'ancestorids', _class.LINEAGE_IDS = 'lineageids', _class.POSITION = 'position', _class.LATITUDE = 'latitude', _class.LONGITUDE = 'longitude', _class.CHILD_PATH = 'childpath', _class.FIELD_NAMES = '.fields', _class.JOIN_CLAUSE_NAME = '.joinClauseName', _class.SOURCE_ENGINE = 'engine', _class.CONNECTOR_TYPE = 'connectortype', _class.DOC_STATUS = 'docstatus', _class.CONVERSION_ERROR = 'conversionError', _class.CONVERSION_ERROR_CODE = 'conversionErrorCode', _class.CONVERTED_FILE_PATH = 'convertedfilepath', _class.CHILD_COUNT = 'childcount', _class.CHILD_INDEX = 'childindex', _class.TABLE = 'table', _class.TEASER = 'teaser', _class.ANCHOR_TEXT = 'anchortext', _class.LINK_COUNT = 'linkcount', _class.LINK_FACTOR = 'linkfactor', _class.DUPLICATES = 'duplicates', _class.CHECKSUM = 'checksum', _class.JSON = 'json', _class.PROCESSING_FEEDBACK_LEVEL = 'processing.feedback.level', _class.PROCESSING_FEEDBACK_MESSAGE = 'processing.feedback.message', _class.PROCESSING_FEEDBACK_COMPONENT = 'processing.feedback.component', _class.PROCESSING_FEEDBACK_ERROR_CODE = 'processing.feedback.code', _class.STATIC_FIELD_NAME = '.staticfields', _class.TAGS = 'tags', _temp);
+exports.default = FieldNames;
+module.exports = exports['default'];
